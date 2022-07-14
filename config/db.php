@@ -1,10 +1,10 @@
 <?php 
 class db
 {
-	private $host = "79.139.62.188:3306";
-	private $username = "wearthuc_boomi";
-	private $password = "z7ATq7ukaFWxQP";
-	private $dbname = "wearthuc_boomiapp";
+	private $host = "";
+	private $username = "";
+	private $password = "";
+	private $dbname = "";
 	private $conn;
 
 	// Connect to the Database
